@@ -1,3 +1,6 @@
+contentCache
+requestCache
+
 # Logs
 logs
 *.log
